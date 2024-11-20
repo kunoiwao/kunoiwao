@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kunoiwao
+- 👀 I’m interested in Telegram mini app/bot development and web scraping.
+- 🌱 I’m currently learning chatbot and discord bot development
+- 💞️ I’m looking to collaborate on Upwork.
+- 📫 How to reach me: Skype📞 live:.cid.f2c12afab1665a2
